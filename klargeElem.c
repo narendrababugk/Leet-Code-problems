@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//In the below function code time complexity is 0(n^2)
 /*int findKthLargest(int* nums, int numsSize, int k) {
     int i=0,j,res;
 
